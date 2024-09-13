@@ -11,7 +11,7 @@ This project is an AI-powered web scraper designed to extract structured data fr
 ## Screenshots and Functionality
 
 ### 1. **Ollama Model Pull**
-![Ollama Model Pull](ollama_powershell.png)
+![Ollama Model Pull](image.png)
 
 In this screenshot, I use the `ollama pull` command to retrieve the Gemma 2:2b model, which is then utilised to run the AI web scraping tasks.
 
