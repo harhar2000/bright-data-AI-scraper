@@ -11,7 +11,7 @@ SBR_PASSWORD = os.getenv('SBR_PASSWORD')
 SBR_WEBDRIVER = f"https://{SBR_USERNAME}:{SBR_PASSWORD}@brd.superproxy.io:9515"
 
 
-
+ 
 def scrape_website(website):
     print("Connecting to Scraping Browser...")
     
