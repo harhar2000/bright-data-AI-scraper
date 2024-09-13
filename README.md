@@ -19,7 +19,7 @@ In this screenshot, I use the `ollama pull` command to retrieve the Gemma 2:2b m
 ![Job Listings Scraper UI](webscrape1.png)
 
 The web UI, built with **Streamlit**, allows users to input a URL (in this case, job listings from Indeed), along with a prompt explaining what content to extract. For example, in this case, we aim to extract job titles, companies, and locations.
-
+ 
 ### 3. **Parsed Content**
 ![Parsed Job Listings](webscrape2.png)
 
