@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 load_dotenv()
 SBR_USERNAME = os.getenv('SBR_USERNAME')
 SBR_PASSWORD = os.getenv('SBR_PASSWORD')
-
+ 
 SBR_WEBDRIVER = f"https://{SBR_USERNAME}:{SBR_PASSWORD}@brd.superproxy.io:9515"
 
 
